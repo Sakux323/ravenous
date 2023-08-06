@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./Business.css";
+import styles from "./Business.module.css";
 
 const business = {
   imageSrc:

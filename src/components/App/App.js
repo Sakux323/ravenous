@@ -1,13 +1,15 @@
 import React from "react";
-import styles from "./App.css";
+import styles from "./App.module.css";
 
 import BusinessList from "../Business/BusinessList/BusinessList";
+import SearchBar from "../SearchBar/SearchBar";
 
 const App = () => {
   return (
     <div className={styles.App}>
-      <h1>Ravenous</h1>
-      <BusinessList />
+      <h1>ravenous</h1>
+      <SearchBar />
+      <BusinessList/>
     </div>
   );
 };
