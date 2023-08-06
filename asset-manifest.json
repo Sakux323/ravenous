@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ravenous/static/css/main.0e298e9f.css",
-    "main.js": "/ravenous/static/js/main.b78c4660.js",
+    "main.css": "/ravenous/static/css/main.27629566.css",
+    "main.js": "/ravenous/static/js/main.0c5a6df6.js",
     "static/js/787.d43d5300.chunk.js": "/ravenous/static/js/787.d43d5300.chunk.js",
-    "static/media/background_search_desktop.jpg": "/ravenous/static/media/background_search_desktop.5d22362af7aa3252eb5b.jpg",
-    "static/media/background_search_mobile.jpg": "/ravenous/static/media/background_search_mobile.a6f8ee50c5c0c66a98c5.jpg",
+    "static/media/background_search_desktop.jpg": "/ravenous/static/media/background_search_desktop.329bd5a21a509d446553.jpg",
+    "static/media/background_search_mobile.jpg": "/ravenous/static/media/background_search_mobile.e60d4224b4ad50de7802.jpg",
     "index.html": "/ravenous/index.html",
-    "main.0e298e9f.css.map": "/ravenous/static/css/main.0e298e9f.css.map",
-    "main.b78c4660.js.map": "/ravenous/static/js/main.b78c4660.js.map",
+    "main.27629566.css.map": "/ravenous/static/css/main.27629566.css.map",
+    "main.0c5a6df6.js.map": "/ravenous/static/js/main.0c5a6df6.js.map",
     "787.d43d5300.chunk.js.map": "/ravenous/static/js/787.d43d5300.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e298e9f.css",
-    "static/js/main.b78c4660.js"
+    "static/css/main.27629566.css",
+    "static/js/main.0c5a6df6.js"
   ]
 }
